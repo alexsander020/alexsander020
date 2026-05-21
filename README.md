@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação · IA & Machine Learning · São Paulo, Brasil
 
-Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnica em Inteligência Artificial. Apaixonado por dados, machine learning e desenvolvimento de soluções que geram impacto real. Atualmente busco oportunidades de estágio nas áreas de dados, IA e desenvolvimento.
+Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnica em Inteligência Artificial. Apaixonado por dados, machine learning, cibersegurança e desenvolvimento de soluções que geram impacto real. Atualmente busco oportunidades de estágio nas áreas de dados, IA, segurança da informação e desenvolvimento.
 
 ---
 
@@ -35,11 +35,17 @@ Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnic
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Cibersegurança & Redes**
+
+![Networking](https://img.shields.io/badge/TCP%2FIP-Redes-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Port_Scanning-Reconhecimento-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Python](https://img.shields.io/badge/Socket_Programming-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🏆 Projeto Principal
+### 🏆 Projetos em Destaque
 
 **[💊 MedConnect Application](https://github.com/alexsander020/MedConnect_Application)**
 
@@ -57,6 +63,22 @@ Plataforma web que conecta pacientes a farmácias de manipulação — desenvolv
 
 ---
 
+**[⚡ AegisScan](https://github.com/alexsander020/AegisScan)**
+
+Scanner de portas TCP multithreaded para reconhecimento de ativos de rede — construído do zero com bibliotecas nativas do Python:
+
+![Python](https://img.shields.io/badge/Python-Nativo-3776AB?style=flat&logo=python&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-100+_workers-orange?style=flat)
+![Security](https://img.shields.io/badge/Cibersegurança-Port_Scanner-red?style=flat)
+![Zero Deps](https://img.shields.io/badge/Zero-Dependências_Externas-success?style=flat)
+
+- ✅ **Multithreading real** — até 100+ workers paralelos via `ThreadPoolExecutor`
+- ✅ **Zero dependências** — apenas bibliotecas nativas: `socket`, `argparse`, `concurrent.futures`
+- ✅ **Identificação de serviços** — mapeamento de 100+ portas conhecidas
+- ✅ **CLI profissional** — interface com ASCII art, relatório final e aviso legal
+
+---
+
 ### 📁 Outros Projetos
 
 | Projeto | Descrição | Tecnologias |
@@ -65,7 +87,6 @@ Plataforma web que conecta pacientes a farmácias de manipulação — desenvolv
 | [🗄️ Banco de Dados](https://github.com/alexsander020/Projetos-em-Banco-de-Dados) | Modelagem e consultas SQL para cenários reais | SQL · MySQL |
 | [🌐 Desenvolvimento Web](https://github.com/alexsander020/Desenvolvimento-Web-Full-Stack) | Projetos de front-end com HTML, CSS e JavaScript | HTML · CSS · JavaScript |
 | [⚙️ Algoritmos](https://github.com/alexsander020/Algoritmos-e-Logica-de-Programacao) | Lógica de programação, jogos em C# e estruturas de dados | C# · .NET |
-
 ---
 
 ## 🎓 Formação & Certificações
@@ -103,5 +124,5 @@ Plataforma web que conecta pacientes a farmácias de manipulação — desenvolv
 ---
 
 <div align="center">
-  <i>Aberto a oportunidades de estágio em Dados, IA e Desenvolvimento · São Paulo, SP</i>
+  <i>Aberto a oportunidades de estágio em Dados, IA, Cibersegurança e Desenvolvimento · São Paulo, SP</i>
 </div>
