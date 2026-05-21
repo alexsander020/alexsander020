@@ -45,8 +45,6 @@ Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnic
 
 ## 📂 Projetos em Destaque
 
-### 🏆 Projetos em Destaque
-
 **[💊 MedConnect Application](https://github.com/alexsander020/MedConnect_Application)**
 
 Plataforma web que conecta pacientes a farmácias de manipulação — desenvolvida com práticas reais de engenharia de software:
@@ -76,6 +74,22 @@ Scanner de portas TCP multithreaded para reconhecimento de ativos de rede — co
 - ✅ **Zero dependências** — apenas bibliotecas nativas: `socket`, `argparse`, `concurrent.futures`
 - ✅ **Identificação de serviços** — mapeamento de 100+ portas conhecidas
 - ✅ **CLI profissional** — interface com ASCII art, relatório final e aviso legal
+
+---
+
+**[🛡️ WebArmor](https://github.com/alexsander020/WebArmor)**
+
+Ferramenta de auditoria de segurança web automatizada com 3 módulos independentes — inspirada no OWASP ZAP e no Nikto:
+
+![OWASP](https://img.shields.io/badge/OWASP-Inspired-red?style=flat)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-HTML_Parsing-darkgreen?style=flat)
+![XSS](https://img.shields.io/badge/XSS-Reflected_Detection-orange?style=flat)
+![Modular](https://img.shields.io/badge/Arquitetura-3_Módulos-blue?style=flat)
+
+- ✅ **Auditoria de headers HTTP** — verifica CSP, HSTS, X-Frame-Options e outros cabeçalhos OWASP
+- ✅ **Information Disclosure** — detecta versões expostas e caminhos sensíveis (`.git`, `.env`, `/admin`)
+- ✅ **XSS Refletido** — injeta payloads e verifica escape em parâmetros, formulários e query strings
+- ✅ **Anti-falso-positivo** — checa 3 variantes de encoding HTML antes de reportar
 
 ---
 
