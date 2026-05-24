@@ -122,9 +122,11 @@ Ferramenta de auditoria de segurança web automatizada com 3 módulos independen
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=alexsander020&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexsander020&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsander020&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsander020&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Trofeus](https://github-profile-trophy.vercel.app/?username=alexsander020&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
