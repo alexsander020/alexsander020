@@ -1,6 +1,6 @@
 # Olá, eu sou o Alexsander! 👋
 
-### Estudante de Ciência da Computação · IA & Machine Learning · São Paulo, Brasil
+### Estudante de Ciência da Computação · IA · Cibersegurança · Mobile · São Paulo, Brasil
 
 Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnica em Inteligência Artificial. Apaixonado por dados, machine learning, cibersegurança e desenvolvimento de soluções que geram impacto real. Atualmente busco oportunidades de estágio nas áreas de dados, IA, segurança da informação e desenvolvimento.
 
@@ -11,6 +11,7 @@ Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnic
 **Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,6 +41,12 @@ Tenho 21 anos e estudo Ciência da Computação na FECAP, com formação técnic
 ![Networking](https://img.shields.io/badge/TCP%2FIP-Redes-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security](https://img.shields.io/badge/Port_Scanning-Reconhecimento-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Python](https://img.shields.io/badge/Socket_Programming-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
@@ -93,10 +100,27 @@ Ferramenta de auditoria de segurança web automatizada com 3 módulos independen
 
 ---
 
+**[💈 Barbearia Elite — BarberFlow](https://github.com/alexsander020/Barbearia_Elite)**
+
+MVP de aplicativo mobile para gestão completa de barbearias com dois perfis de usuário e dashboard financeiro em tempo real:
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-Estado_Reativo-0553B1?style=flat)
+![GoRouter](https://img.shields.io/badge/GoRouter-Roteamento_por_Role-02569B?style=flat)
+
+- ✅ **Arquitetura Feature-First** — módulos independentes por domínio (auth, client, professional)
+- ✅ **Firestore em tempo real** — agenda do profissional atualizada via streams sem polling
+- ✅ **Dashboard financeiro** — faturamento bruto, comissão automática e ticket médio
+- ✅ **Design system Dark + Gold** — UI profissional com roteamento automático por role
+
+---
+
 ### 📁 Outros Projetos
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [📊 NexusData](https://github.com/alexsander020/NexusData) | Dashboard BI com segmentação RFM e previsão de faturamento via ML | Python · Streamlit · scikit-learn · SQL |
 | [🌱 Projetos de IA](https://github.com/alexsander020/Projetos-de-IA) | Machine Learning aplicado: Random Forest, Redes Neurais e sistema de recomendação agrícola | Python · scikit-learn · Jupyter |
 | [🗄️ Banco de Dados](https://github.com/alexsander020/Projetos-em-Banco-de-Dados) | Modelagem e consultas SQL para cenários reais | SQL · MySQL |
 | [🌐 Desenvolvimento Web](https://github.com/alexsander020/Desenvolvimento-Web-Full-Stack) | Projetos de front-end com HTML, CSS e JavaScript | HTML · CSS · JavaScript |
@@ -140,5 +164,5 @@ Ferramenta de auditoria de segurança web automatizada com 3 módulos independen
 ---
 
 <div align="center">
-  <i>Aberto a oportunidades de estágio em Dados, IA, Cibersegurança e Desenvolvimento · São Paulo, SP</i>
+  <i>Aberto a oportunidades de estágio em Dados, IA, Cibersegurança, Mobile e Desenvolvimento · São Paulo, SP</i>
 </div>
